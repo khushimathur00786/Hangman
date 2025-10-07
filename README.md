@@ -1,4 +1,3 @@
-Copy code
 import random
 
 def hangman():
